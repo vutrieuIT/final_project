@@ -3,7 +3,7 @@
 this is Duc Trieu Vu's final project, student K20 HCMUTE 
 
 ## source
-- [backend](https://github.com/vutrieuIT/tlcn_be): main api project ^
+- [backend](https://github.com/vutrieuIT/tlcn_be): main api project
 - [api recommend](https://github.com/vutrieuIT/recommend_system): recommend system
 - [api detect image](https://github.com/vutrieuIT/phone_detect): detect image system
 - [client](https://github.com/vutrieuIT/fe_client): UI user
